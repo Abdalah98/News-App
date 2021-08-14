@@ -29,8 +29,9 @@ This is the News app I Use the News API
 
 
 ## Search
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/41602889/129434525-61798d51-c876-45c9-a58e-5fc2ece1bfd8.gif)
 
 ## Favorites 
 
 ## Notifications
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/41602889/129434608-3c0ad6dd-3d2b-4f37-9073-c34ea41dc54a.gif)
