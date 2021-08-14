@@ -9,6 +9,16 @@ This is the News app I Use the News API
     - Searching for news articles in Eg.  - https://newsapi.org/v2/everything?q=Apple&from=2021-08-14&sortBy=popularity&apiKey=API_KEY
     
 
+The app has several main features:
+
+1- Fetch news based on categories: general, business, science, technology, health, entertainment, sports
+2- Favorites articles so it can be persisted even when the app restarts.
+3- Read article inside a Safari Webview in modal sheet presentation.
+4- Search news 
+
+
+### Swift
+
 - When showing more information about the News, to you see.
 - Project Organization & Architecture
 - add PageControl in CollectionView to Auto Image Slider With PageControl
