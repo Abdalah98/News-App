@@ -12,12 +12,15 @@ This is the News app I Use the News API
 - When showing more information about the News, to you see.
 - Project Organization & Architecture
 - add PageControl in CollectionView to Auto Image Slider With PageControl
-- Planning our Network Calls - API, JSON, Model
 - app support light mode and dark mode
 - ARC, Memory Leaks
 - Downloading & Caching Image
 - Persistence Manager used (user default)
 - send users a notification about the news saved  in favorite to read it 
+- Planning our Network Calls - API, JSON, Model
+- Alamofire
+- Generics Networking(Custom Response)
+- Asynchronous Data Fetch
 - Singleton
 - and many tools used
 
