@@ -21,7 +21,7 @@ This is the News app I Use the News API
 - Singleton
 - and many tools used
 
-#### UI
+###### UI
 
 ## screenShots about the run app 
 
