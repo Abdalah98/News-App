@@ -23,12 +23,13 @@ This is the News app I Use the News API
 
 #### UI
 
-###screenShots about the run app 
-### Top headlines and sources  in the Eg
+## screenShots about the run app 
+
+## Top headlines and sources  in the Eg
 
 
 
-### Search
+## Search
 
 
-### Favorites 
+## Favorites 
