@@ -3,7 +3,7 @@ This is the News app I Use the News API
 
 ### Features
 
-- Use the News API - No authentication needed 
+- Use the News API 
     - Top headlines in the Eg.            - https://newsapi.org/v2/top-headlines?country=Eg&apiKey=API_KEY
     - All sources                         - https://newsapi.org/v2/top-headlines/sources?apiKey=API_KEY
     - Searching for news articles in Eg.  - https://newsapi.org/v2/everything?q=Apple&from=2021-08-14&sortBy=popularity&apiKey=API_KEY
